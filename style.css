@@ -1,0 +1,80 @@
+body{
+  
+    background-color: black;
+ }
+ header{
+     background-color: black;
+     color: rgba(255, 251, 251, 0.777);
+     margin-top: 5px;
+     padding: 10px 10px ;
+     border-radius: 20px;
+     box-shadow: 10px 10px 10px rgba(195, 194, 194, 0.2);   
+ }
+ header > h1{
+ 
+     font-size:43px;
+     margin-top: 10px;
+     position: relative;
+ }
+ header > p{
+     font-size: 11px;
+     margin-top: -32px;
+     margin-left: 10px;
+ }
+ nav {
+     display: flex;
+     justify-content: center; 
+   }
+   nav >a{
+     margin: 15px;
+     color:rgba(255, 251, 251, 0.777);
+     text-decoration: none;
+     padding-bottom: -10px;
+   }
+   nav a:hover{
+     transition: 1,9s;
+     font-size: 20px;
+     color: white;
+   }
+ 
+ 
+   main > div{
+     
+     left: 25vw;
+     right: 30vw;
+   }
+ 
+   div.imagem1{
+     position: relative;
+     display: inline-block;
+     top: 210px;
+     background-color: rgba(255, 255, 255, 0.64);
+     color: white;
+     border-radius: 20px;
+     text-align: center;
+ 
+   }
+ 
+   div.imagem2{
+     position: relative;
+     display: inline-block;
+     top: 210px;
+     background-color: rgba(255, 255, 255, 0.64);
+     color: white;
+     border-radius: 20px;
+     text-align: center;
+   }
+ 
+   div.imagem3{
+     position: relative;
+     display: inline-block;
+     top: 210px;
+     background-color: rgba(255, 255, 255, 0.64);
+     color: white;
+     border-radius: 20px;
+     text-align: center;
+   }
+   
+ 
+   
+ 
