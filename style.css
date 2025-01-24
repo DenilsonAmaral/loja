@@ -37,7 +37,18 @@ body{
      color: white;
    }
    main{
-    background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;  
+     background-attachment: fixed; 
+   }
+   main#imagem1{
+      background-image: url(../loja/fundo.jpg);
+      background-position: center;
+   }
+   main{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
    }
  
  
