@@ -43,7 +43,7 @@ body{
      background-attachment: fixed; 
    }
    main#imagem1{
-      background-image: url(../loja/fundo.jpg);
+      background-image: url(fundo.jpg);
       background-position: center;
    }
    main{
