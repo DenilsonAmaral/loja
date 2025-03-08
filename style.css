@@ -66,9 +66,9 @@ body{
      color: white;
      border-radius: 20px;
      text-align: center;
- 
+     text-decoration: none;
    }
- 
+
    div.imagem2{
      position: relative;
      display: inline-block;
