@@ -61,7 +61,7 @@ body{
    div.imagem1{
      position: relative;
      display: inline-block;
-     top: 210px;
+     top: 20px;
      background-color: rgba(255, 255, 255, 0.64);
      color: white;
      border-radius: 20px;
@@ -72,7 +72,7 @@ body{
    div.imagem2{
      position: relative;
      display: inline-block;
-     top: 210px;
+     top: 20px;
      background-color: rgba(255, 255, 255, 0.64);
      color: white;
      border-radius: 20px;
@@ -82,12 +82,20 @@ body{
    div.imagem3{
      position: relative;
      display: inline-block;
-     top: 210px;
+     top: 25px;
      background-color: rgba(255, 255, 255, 0.64);
      color: white;
      border-radius: 20px;
      text-align: center;
    }
+
+   p#bottom{
+    text-align: center;
+    width: 95vw;
+    color: white;
+  }
+    
+   
    
  
    
